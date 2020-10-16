@@ -6,7 +6,7 @@ function Content() {
              <span>
                 <h1>Abdul-Aziz Abdullah</h1>
     
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjVOMDwqOGDZ95Mj_FXLklhd0DLN8T9TKLAQ&usqp=CAU.jpg"/>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjVOMDwqOGDZ95Mj_FXLklhd0DLN8T9TKLAQ&usqp=CAU.jpg" alt="" />
     
                 <p>Hi.i am Abdul-Aziz Abdullah.I am Tall ,handsome , extremely gentle,Intelligent,God fearing , Resourceful. I am your quintessential archetype gentleman. currently ,i am feeling miserable ,down and out with a sunken spirit. I am currently jobless and broke due to bad decisions,indiscretion etc but i am trying my hands on a whole lot of things including computer programming which i am keen on taking to the next level.I am made several mistakes in life including my last as an Operations Manager,regretably so.I have learnt many lessons in this short of life thus far and i have picked up my pieces ,dusted myself and i am ready to ride again as a better man.May the Almighty Allah help us all. </p>
     
