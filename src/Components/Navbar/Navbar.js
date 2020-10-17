@@ -1,12 +1,12 @@
 
-import React,{Components} from 'react';
-import MenuItems from "./MenuItems"
-import {Button} from  "../Button"
-import {Navbar} from './Navbar.css'
+import React,{Component} from 'react';
+import {MenuItems} from "./MenuItems"
+
+
  
 
-class Navbar extends Components{
-      state={clicked: false} 
+class Navbar extends Component{
+      state={clikced: false} 
 
       handleClick=()=> {
          this.setState({clicked: !this.state.clicked})
@@ -21,8 +21,8 @@ class Navbar extends Components{
                    </div>
 
                      <ul className={this.state.clicked? 'nav-menu active' :'nav-menu'}>
-                         {Menuitems.map ((item,index)
-                           => {
+                         {MenuItems.map ((item,index)=> {
+                           
                                return(
                          <li key={index}>
                             <a className=
@@ -38,7 +38,7 @@ class Navbar extends Components{
                         })}
                     
                       </ul>
-                      <Button>Sign Up</Button>
+                      <button>Sign Up</button>
                 </nav> 
            )
         }
