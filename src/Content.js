@@ -2,31 +2,62 @@ import React from 'react'
 
 function Content() {
     return (
-        <div>
-             <span>
-                <h1>Abdul-Aziz Abdullah</h1>
+        <div  className="images">     
+             <h1>Ghana Photo Tourism Album </h1>
+             <p>Dive right in and check out more jaw dropping locations throughout Ghana</p>
+
+             <div>
+               
+               <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTi9ESnGKU_--9K22EU48CNtf_zLCj1bAgt7g&usqp=CAU.jpg"  alt=""  />
+               <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQa_-2eYHyRF4FtlqT-x9e7zuF7enaKdajKVQ&usqp=CAU.jpg" alt=""  />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREGgu17btVuzgaUjwdgTZNqmf4q6lnhqS_3A&usqp=CAU.jpg"  alt="" />
+             </div>
+
+             <div>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ9CBHNS3BTAC6n88AIcG90WTkJsFW4rd4ZDw&usqp=CAU.jpg" alt="" />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOzN6INfKpndFZkXodyeOv6R5g10rY-qZM9w&usqp=CAU.jpg"alt=""/>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsvpSzAxDuzQ81QJ8oOU15pt_Vp9Ou67EHiQ&usqp=CAU.jpg" alt="" />
+             </div>
+
+            <div>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGBQgfSyUC1gLpwLhxPT76qkZvD5Ub_ZjrLQ&usqp=CAU.jpg" alt="" />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtAtMg_3LhnK_zMA_lln8W4CubW8DnJ8qODw&usqp=CAU.jpg" alt="" />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjtT1g-O3QA8awV-yOypk3g9cxtXTjQGWomg&usqp=CAU.jpg"  alt="" />
+           </div>
+
+           <div>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqclLv3ewYKxJWCVhfJfvA-SpHPHQ6Z_e00A&usqp=CAU.jpg" alt="" />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4pmeodDO9VsZumeS1CtbUUbvqq1ZrXllM7A&usqp=CAU.jpg" alt="" />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQj_wuFiRHY-vZX1qVnNBVBLi5TTnL9NtviNA&usqp=CAU.jpg" alt="" /> 
+           </div>
+
+           <div>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNKCrjwHJMC4TedcXS7ihhKUuOB95ql9aruA&usqp=CAU.jpg" alt="" />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTCqoHsNC4rBRIfWL-y27aE02N5ZedHseJqxQ&usqp=CAU.jpg" alt="" />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsbUkiMr5YbpMzXXvyMCbEoNY_GPp7FhECCw&usqp=CAU.jpg" alt="" />
+           </div>
+
+           <div>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTstdI1llA7qgmiKaub-G4-UOilj-Qwm809g&usqp=CAU.jpg" alt="" />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAo5mwRoEmmXTkoNSgl-A9-TwQBJPV2Jp9SQ&usqp=CAU.jpg" alt="" />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTehqQtZOlnVywwcnaqNWZQLY_iA0LcQio5xQ&usqp=CAU.jpg" alt="" />
+           </div>
+
+           <div>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqclLv3ewYKxJWCVhfJfvA-SpHPHQ6Z_e00A&usqp=CAU.jpg" alt="" />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6nAiZb87gsWNugNAObag-9X0y777UZUl6vA&usqp=CAU.jpg"  alt="" />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTmr6Ki_uGahyQOeyo-XJUBzc3CjAtq3Jcdg&usqp=CAU.jpg" alt="" />    
+           </div>
+
+           <div>
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCcXFwLwlNJDs4gjJxkv1cj_RUs7Sgq_6Wvw&usqp=CAU.jpg" alt="" />
+               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRaKo9rDtuw6n6ofcF5Q66354LImYfU7C7Y8Q&usqp=CAU.jpg" alt="" />
+               <img src="https://madailygist.ng/wp-content/uploads/2016/10/kenkey-and-fish.jpg" alt="" />
+           </div>
+       </div>
     
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjVOMDwqOGDZ95Mj_FXLklhd0DLN8T9TKLAQ&usqp=CAU.jpg" alt="" />
-    
-                <p>Hi.i am Abdul-Aziz Abdullah.I am Tall ,handsome , extremely gentle,Intelligent,God fearing , Resourceful. I am your quintessential archetype gentleman. currently ,i am feeling miserable ,down and out with a sunken spirit. I am currently jobless and broke due to bad decisions,indiscretion etc but i am trying my hands on a whole lot of things including computer programming which i am keen on taking to the next level.I am made several mistakes in life including my last as an Operations Manager,regretably so.I have learnt many lessons in this short of life thus far and i have picked up my pieces ,dusted myself and i am ready to ride again as a better man.May the Almighty Allah help us all. </p>
-    
-                <p>I might not have been successful in my previous adventures ,but hey mind you i have a solid Resume. find below intro the excerpts of my Resume,<strong><q>Share my knowledge in Best Practices in Telecommunications Mobile financial Services/Financial Technology, Telecommunications Operations and Innovations Management; through the promotion of a culture of Continual Improvement. Additionally, to provide quality service in order to realize higher returns on investment through effective decision-making, based on the analysis of data and information in a safe working environment where employees will develop their capabilities and grow through education and experience</q></strong>.</p>
-             </span>
-    
-        <h3>Awesome Places i would love to work</h3>
-        <span><strong><i>Blue Chip Companies are global brands and every prospective employee would love to be associated with.</i></strong>Some of these global brands includes but not limited to the following;Apple,MTN Group, Andela ,Bank of Ghana,Alphabet,Microsoft Group and JP Morgan Chase
-        </span>
-        <h3>Some of My Favorite Tourism Destinations Earth</h3>
+       
         
-        <span>Mecca-Saudi Arabia, Santorini-Greece,Bali-Indonesia,Seville-Spain,The Niagara Falls-Himalayans,Eastern Europe and The Balkans,CopoCabana Beach and The Amazons(Brazil) ,Some Selected Beaches and Countries in Afric</span>
-            
-        <h3> Social Media Pages</h3>
-       <span> I have quite few you can reach me on. linkedin and Facebook are my favorites though. Kindly find links below:</span>
-    
-        <ul><li><a href="https://www.linkedin.com/in/abdul-aziz-abdullah-5357b534/">Linkedin</a></li></ul>
-    
-       <ul> <li><a href="https://web.facebook.com/babykilla"> Facebook</a></li></ul>
-     </div>
 
     );
 }

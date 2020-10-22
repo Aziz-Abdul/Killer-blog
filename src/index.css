@@ -7,6 +7,35 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+  font-family: 'Piazzolla', serif;
+}
+.images img {float: left;
+             display: block;
+             margin:22px 22px 22px 22px;
+             width: 350px;
+             
+             height:350px;
+
+
+}
+.images h1{text-align:
+   center;
+  }
+body{margin-bottom:
+   auto;
+   padding-bottom: 5px;
+}
+.images p{text-align: center;
+          text-emphasis: none;
+          text-decoration-style: wavy;
+
+
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
